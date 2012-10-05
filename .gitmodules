@@ -1,0 +1,3 @@
+[submodule "RAContentStretchingView"]
+	path = RAContentStretchingView
+	url = git://github.com/evadne/RAContentStretchingView.git
