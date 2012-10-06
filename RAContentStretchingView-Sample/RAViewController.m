@@ -20,9 +20,6 @@
 		obj.imageStretchingInsets = (UIEdgeInsets){ 8, 8, 8, 8 };
 		obj.imageVisualInsets = (UIEdgeInsets){ 4, 4, 4, 4 };
 		
-		//	top
-		obj.stretchedResultInsets = (UIEdgeInsets){ 0, 0, -44, 0 };
-		
 		switch (idx) {
 			case 0: {
 				obj.imageVisualInsets = (UIEdgeInsets){ 4, 4, 0, 4 };
